@@ -1,1 +1,1 @@
-# 欢迎来到![](../imgs/oldman.svg)的主页?
+# 欢迎来到![](/Debonex/Debonex/raw/master/imgs/oldman.svg)的主页?
